@@ -1,3 +1,5 @@
+// fixed for warnings
+
 import Button from './src/components/button';
 import TextButton from './src/components/text-button';
 import RaisedButton from './src/components/raised-button';
